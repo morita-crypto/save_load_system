@@ -9,9 +9,6 @@ package com.javaquest.model;
  * player.setWeapon("鉄の剣");  // 武器を装備
  * player.setArmor("革の防具");   // 防具を装備
  * player.displayStatus(); // プレイヤーの情報を表示
- * 
- * @author 高校生プログラマー
- * @version 2.0 - 装備情報機能を追加
  */
 public class Player {
     /** プレイヤーの名前（例："勇者"、"魔法使い"など） */
